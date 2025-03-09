@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("BasicTutorial"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+10444f0493ade4da90524bccc6dd28374928cfd6"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("BasicTutorial"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("BasicTutorial"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
